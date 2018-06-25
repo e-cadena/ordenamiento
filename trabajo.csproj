@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <CSFile Include = "tractor.cs"/>
+    <CSFile Include = "roedor.cs"/>
+    <CSFile Include = "Program.cs"/>
+  </PropertyGroup>
+
+</Project>
